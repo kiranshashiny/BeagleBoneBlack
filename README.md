@@ -1,5 +1,27 @@
 # BeagleBoneBlack
 
+1.
+Installing the Beagle bone black latest images in this link.
+
+https://beagleboard.org/latest-images
+
+Used this as I saw the word Beaglebone Black in it.
+
+![image](https://user-images.githubusercontent.com/14288989/217743296-3235383b-884d-4d8d-84f2-8428b900a8b4.png)
+
+![image](https://user-images.githubusercontent.com/14288989/217743855-4897b314-48de-4a59-b158-2e676a54c71f.png)
+
+Do not untar ! it is built for the SD card.
+
+
+2. Follow
+https://beagleboard.org/getting-started#update
+
+3. 
+Balena etcher
+
+
+
 Connect to the network and run Angry Ip Scanner and get the IP address
 
 
